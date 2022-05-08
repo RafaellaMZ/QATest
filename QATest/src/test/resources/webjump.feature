@@ -1,7 +1,7 @@
 #Author: rafaellamacegosa@hotmail.com
 
-Feature: Title of your feature
-  I want to use this template for my feature file
+Feature: Test WebJump
+  As a QA I want to run the scenarios using the webjump qa environment
 
 	Background:
     Given that is in "https://wj-qa-automation-test.github.io/qa-test/"
